@@ -19,7 +19,7 @@ ChallengeApp is a simple Spring Boot REST API that manages monthly challenges. I
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/amaanshaikh10/ChallengeApp.git
    ```
 2. Navigate to the project directory:
    ```sh
