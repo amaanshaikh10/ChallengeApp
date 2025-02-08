@@ -56,7 +56,7 @@ ChallengeApp is a simple Spring Boot REST API that manages monthly challenges. I
 ## Example JSON Request Body
 ```json
 {
-  "month": "February",
+  "month": "january",
   "description": "Complete a 30-day coding challenge."
 }
 ```
